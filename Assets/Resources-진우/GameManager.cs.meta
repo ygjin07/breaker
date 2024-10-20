@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23fc8050922559344b13a51e50c8f91d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemDataBase: {instanceID: 0}
+  - TabIdleSprite: {instanceID: 0}
+  - TabSelectSprite: {instanceID: 0}
+  - ExplainPanel: {instanceID: 0}
+  - CanvasRect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

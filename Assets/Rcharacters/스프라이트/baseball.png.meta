@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: a4bafee2cc48d4f4f87dbfc3b4fe3c4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5644026120064284040
+    second: baseball_0
+  - first:
+      213: 3544578246989842968
+    second: baseball_1
+  - first:
+      213: 7231875687302758647
+    second: baseball_2
+  - first:
+      213: 1451982390920285433
+    second: baseball_3
+  - first:
+      213: -910306340280831676
+    second: baseball_4
+  - first:
+      213: -9204488731913114215
+    second: baseball_5
+  - first:
+      213: -4756616200096138506
+    second: baseball_6
+  - first:
+      213: -6161568067818188460
+    second: baseball_7
+  - first:
+      213: -9093305859159092644
+    second: baseball_8
+  - first:
+      213: 8902495443338626988
+    second: baseball_9
+  - first:
+      213: 993596398325320973
+    second: baseball_10
+  - first:
+      213: 5461434123506214660
+    second: baseball_11
+  - first:
+      213: -1737030594044855621
+    second: baseball_12
+  - first:
+      213: 5378102184022452262
+    second: baseball_13
+  - first:
+      213: -13439334568978117
+    second: baseball_14
+  - first:
+      213: 5811150334443394205
+    second: baseball_15
+  - first:
+      213: -6582718650526868939
+    second: baseball_16
+  - first:
+      213: 7640415124793488835
+    second: baseball_17
+  - first:
+      213: -2201757605588701372
+    second: baseball_18
+  - first:
+      213: -1821876799465486108
+    second: baseball_19
+  - first:
+      213: 1381045276585487696
+    second: baseball_20
+  - first:
+      213: 6897690872218323251
+    second: baseball_21
+  - first:
+      213: 5352358115065996214
+    second: baseball_22
+  - first:
+      213: -7575604015199628535
+    second: baseball_23
+  - first:
+      213: 2714979286900010416
+    second: baseball_24
+  - first:
+      213: -6532806870053491812
+    second: baseball_25
+  - first:
+      213: -6591489280262676396
+    second: baseball_26
+  - first:
+      213: -6949900958390731300
+    second: baseball_27
+  - first:
+      213: 8135375182386877347
+    second: baseball_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baseball_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 271
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aca8aa5246ca1b0800000000000000
+      internalID: -5644026120064284040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 271
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a086ab22fd03130800000000000000
+      internalID: 3544578246989842968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 8
+        width: 267
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f007791f98cc5460800000000000000
+      internalID: 7231875687302758647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_3
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 8
+        width: 332
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc0de6aa4a762410800000000000000
+      internalID: 1451982390920285433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_4
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 8
+        width: 341
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44176ced431fd53f0800000000000000
+      internalID: -910306340280831676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_5
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 28
+        width: 342
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dab3b0446134080800000000000000
+      internalID: -9204488731913114215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_6
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 28
+        width: 341
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab66484ca1dfdb0800000000000000
+      internalID: -4756616200096138506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_7
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 28
+        width: 337
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4519e4adc76bd7aa0800000000000000
+      internalID: -6161568067818188460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_8
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 28
+        width: 341
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5218dedf761ec180800000000000000
+      internalID: -9093305859159092644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_9
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 3
+        width: 261
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78bb230740c8b70800000000000000
+      internalID: 8902495443338626988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_10
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 28
+        width: 244
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc944f8a6f9cd00800000000000000
+      internalID: 993596398325320973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_11
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 28
+        width: 227
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e8cf3669eacb40800000000000000
+      internalID: 5461434123506214660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_12
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 28
+        width: 230
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba78fdb0e3d4e7e0800000000000000
+      internalID: -1737030594044855621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_13
+      rect:
+        serializedVersion: 2
+        x: 4873
+        y: 28
+        width: 231
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6282964217bd2aa40800000000000000
+      internalID: 5378102184022452262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_14
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 28
+        width: 231
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399ff41ff040dff0800000000000000
+      internalID: -13439334568978117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_15
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 28
+        width: 231
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9414ecb07a55a050800000000000000
+      internalID: 5811150334443394205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_16
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 28
+        width: 226
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad10b934c75a4a0800000000000000
+      internalID: -6582718650526868939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_17
+      rect:
+        serializedVersion: 2
+        x: 6347
+        y: 28
+        width: 226
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c576d94315380a60800000000000000
+      internalID: 7640415124793488835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_18
+      rect:
+        serializedVersion: 2
+        x: 6714
+        y: 28
+        width: 227
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fee558f19c171e0800000000000000
+      internalID: -2201757605588701372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_19
+      rect:
+        serializedVersion: 2
+        x: 7082
+        y: 28
+        width: 230
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8855f14b467b6e0800000000000000
+      internalID: -1821876799465486108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_20
+      rect:
+        serializedVersion: 2
+        x: 7449
+        y: 28
+        width: 231
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05deb99ac557a2310800000000000000
+      internalID: 1381045276585487696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_21
+      rect:
+        serializedVersion: 2
+        x: 7816
+        y: 28
+        width: 231
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33907018d4589bf50800000000000000
+      internalID: 6897690872218323251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_22
+      rect:
+        serializedVersion: 2
+        x: 8224
+        y: 8
+        width: 181
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3203ff855674a40800000000000000
+      internalID: 5352358115065996214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_23
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 3
+        width: 302
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d003194c0ed690800000000000000
+      internalID: -7575604015199628535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_24
+      rect:
+        serializedVersion: 2
+        x: 8883
+        y: 8
+        width: 266
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde730e64b8da520800000000000000
+      internalID: 2714979286900010416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_25
+      rect:
+        serializedVersion: 2
+        x: 9250
+        y: 8
+        width: 267
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bea3493cec655a0800000000000000
+      internalID: -6532806870053491812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_26
+      rect:
+        serializedVersion: 2
+        x: 9617
+        y: 8
+        width: 271
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e52d3c635684a0800000000000000
+      internalID: -6591489280262676396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_27
+      rect:
+        serializedVersion: 2
+        x: 9985
+        y: 8
+        width: 271
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd39f686edfc8f90800000000000000
+      internalID: -6949900958390731300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseball_28
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 195
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d2b410a8a6e070800000000000000
+      internalID: 8135375182386877347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

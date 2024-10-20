@@ -1,0 +1,19 @@
+Character	복서	능력X, 기본공격력:100	FALSE	FALSE	
+Character	태권도	능력X, 기본공격력:100	FALSE	FALSE	
+Character	해머	능력X, 기본공격력:100	FALSE	FALSE	
+Character	미호	능력X, 기본공격력:100	FALSE	FALSE	
+Character	피로인	능력X, 기본공격력:100	FALSE	FALSE	
+Character	좀비	부활1번, 기본공격력:100	FALSE	FALSE	
+Character	손오공	피버 능력 보유자(피버타임 - 공격력 2배), 기본공격력:100	FALSE	FALSE
+Character	야구선수	능력X, 기본공격력:100	FALSE	FALSE	
+Character	마술사	노래가 바뀜, 기본공격력:100	FALSE	FALSE	
+Character	졸라맨	피버 능력 보유자(피버타임 - 공격력 2배), 기본공격력:100	FALSE	FALSE
+Character	스노우맨	스킬 보유자 - 벽 얼리기, 기본공격력:100	FALSE	FALSE	
+Character	축구선수	능력X, 기본공격력:100	FALSE	FALSE	
+Character	락커	능력-피버능력(피버타임 - 공격력 2배), 기본공격력:100	FALSE	FALSE	
+Character	모찌	스킬-마카롱먹기(HP회복), 기본공격력:100	FALSE	FALSE		
+Character	좀비(잠김)	BestScore 500점 이상 획득 시 해제	FALSE	TRUE	
+Character	손오공(잠김)	BestScore 1000점 이상 획득 시 해제	FALSE	TRUE	
+Item	실드(100원)	게임 시작시 일정시간 무적	FALSE	FALSE	
+Item	산삼(150원)	일정HP가 줄어들시 자동으로 회복	FALSE	FALSE	
+Item	고기(200원)	부활 1번	FALSE	FALSE
