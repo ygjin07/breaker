@@ -13,8 +13,8 @@ public class GooglePlayManager : MonoBehaviour
 
     void Awake()
     {
-        PlayGamesPlatform.DebugLogEnabled = true;
-        PlayGamesPlatform.Activate();
+        //PlayGamesPlatform.DebugLogEnabled = true;
+        //PlayGamesPlatform.Activate();
 
         OnLogin();
         text.text = "로그인 필요";
